@@ -1,6 +1,6 @@
 # EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
-## DATE:
+## DATE:1/12/2025
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
@@ -63,6 +63,13 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+<img width="1129" height="813" alt="Screenshot 2025-12-01 200313" src="https://github.com/user-attachments/assets/3e5ba755-6e28-4302-b573-fd858adafddc" />
+<img width="1131" height="807" alt="Screenshot 2025-12-01 200335" src="https://github.com/user-attachments/assets/0452bfed-4511-4e06-91ac-20b54e4a1dd0" />
+<img width="1143" height="809" alt="Screenshot 2025-12-01 200357" src="https://github.com/user-attachments/assets/18338858-6994-4545-aa17-f67147229b0c" />
+<img width="1146" height="813" alt="Screenshot 2025-12-01 200414" src="https://github.com/user-attachments/assets/06c0a8f9-bc28-4c97-b7b0-821aa63ad2f0" />
+<img width="1162" height="796" alt="Screenshot 2025-12-01 200518" src="https://github.com/user-attachments/assets/d102842c-bd95-4f50-90f3-ebdb7771289d" />
+<img width="1108" height="796" alt="Screenshot 2025-12-01 200537" src="https://github.com/user-attachments/assets/153062ec-8b0a-4565-bed6-5ecb4b35e1b2" />
+<img width="1059" height="518" alt="Screenshot 2025-12-01 202107" src="https://github.com/user-attachments/assets/0e7fd5dd-9f15-45e8-8725-693cce450578" />
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
